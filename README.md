@@ -3,7 +3,7 @@ Platanitos es una tienda que ofrece una amplia varieada de calzado femenino y m�
 
 El reto fue rediseñar e unificar por completo la App, contamos con una app tanto en IOS como en ANDROID teniendo un diseño para cada plataforma. Se buscaba que con el rediseño se pueda atraer mayor cantidad de personas, alentarlos a usar la app y generar un vínculo con la marca.
 
-![platanitos](https://raw.githubusercontent.com/alejandraHoces/AlDia/master/aldia.png)
+![platanitos]()
 
 ### Objetivos
 - Hacer un diseño intuitivo, facil y atractivo.
