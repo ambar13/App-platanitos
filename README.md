@@ -1,5 +1,5 @@
 # App-platanitos
-Platanitos es una tienda que ofrece una amplia varieada de calzado femenino y másculino, tanto para niños como para adultos. Buscan generar impacto en sus clientes, mediante el servicio personalizada, educación financiera y hábitos de ahorro.
+Platanitos es una tienda que ofrece una amplia varieada de calzado femenino y másculino, tanto para niños como para adultos. Buscan generar impacto en sus clientes, mediante una compra segura, rapida y con el mejor servicio.
 
 El reto fue rediseñar e unificar por completo la App, contamos con una app tanto en IOS como en ANDROID teniendo un diseño para cada plataforma. Se buscaba que con el rediseño se pueda atraer mayor cantidad de personas, alentarlos a usar la app y generar un vínculo con la marca.
 
